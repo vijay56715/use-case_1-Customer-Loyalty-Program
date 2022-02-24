@@ -1,4 +1,4 @@
-# use-case_1-Customer-Loyalty-Program
+# Use-case_1-Customer-Loyalty-Program
 Case Study #1 customer Loyalty Program
 
 Introduction: 
